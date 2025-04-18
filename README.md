@@ -15,14 +15,17 @@ Context Predict behavior to retain customers. You can analyze all relevant custo
 ## 📂 Step 1：資料收集與理解（Data Collection & Understanding）
 
 - 資料來源：`Telco Customer Churn Dataset`（Kaggle）
-- 欄位理解：
-  - `tenure`：使用月數
-  - `MonthlyCharges`：每月費用
-  - `Contract`：合約類型
-  - ...（其餘欄位略）
-- 初步統計與分佈：
-  - 平均月費、流失率、欄位缺失率等
-
+- 欄位說明：
+  - `customerID`：
+  - `gender`：
+  - `SeniorCitizen`：
+  - `Partner`：
+  - `Dependents`：
+  - `tenure`：
+  - `PhoneService`：
+  - `MultipleLines`：
+  - `InternetService`：
+  - `OnlineSecurity`：
 ---
 
 ## 🧹 Step 2：資料清理與前處理（Data Cleaning & Preprocessing）
